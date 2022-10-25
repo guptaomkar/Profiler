@@ -1,4 +1,10 @@
 # Getting Started with Create React App
+![Capture](https://user-images.githubusercontent.com/40142494/197830575-4747a35e-e383-4da2-8bc2-95ecb1fc781c.PNG)
+First it will show loading state and after clicking on follow or pass button it will get data from random user api and show it to the screen. It's just a simple api calling app don't try to contact any person showing on screen. 😜😂
+
+
+https://user-images.githubusercontent.com/40142494/197830629-147834dc-533a-4799-9f8a-79a0c3ed876f.mp4
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
